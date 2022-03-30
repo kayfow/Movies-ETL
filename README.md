@@ -2,7 +2,7 @@
 
 Module 8 Challenge
 ## Overview of Project
-###Purpose
+### Purpose
 In preparation for a hackathon, Britta was looking to gather data from both Wikipedia and Kaggle, combine them and create an SQL database for the hackathon participants to use. To do this, Britta has asked us to use the ETL process (extract, transform and load) to create a clean dataset in a SQL database. 
 
 ### Summary + Results
